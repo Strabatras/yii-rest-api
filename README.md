@@ -6,7 +6,8 @@
 Обрабатывает запросы по http://localhost/api/v1/users
 
 curl -i -X OPTIONS http://localhost/api/v1/users
-
+<code>
 Файл индекса    /api/web
 Тестовые данные /console/migrations
+</code>
 
