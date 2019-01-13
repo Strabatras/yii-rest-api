@@ -1,5 +1,5 @@
 Заготовка Rest Api для Yii 2 
-<font size=-1>(нет никаких фильтров на данные, проверок авторизаций и т.д.)</font>
+(нет никаких фильтров на данные, проверок авторизаций и т.д.)
 
 Основа http://budiirawan.com/setup-restful-api-yii2/
 
@@ -7,5 +7,6 @@
 
 curl -i -X OPTIONS http://localhost/api/v1/users
 
-Файл индекса в /api/web
+Файл индекса    /api/web
+Тестовые данные /console/migrations
 
